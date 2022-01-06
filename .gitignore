@@ -1,0 +1,11 @@
+## My ignore ##
+# ignore idea 
+/idea 
+
+# ignore out 
+/out
+ 
+# ignore files .iml 
+*.iml
+
+#############################################
